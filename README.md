@@ -1,4 +1,4 @@
-# Keypoint-Detection-of-an-image
+# Keypoints-Detection-of-an-image
 Write programs to detect keypoints in an image according to the following steps, which are also the first three steps of Scale-Invariant Feature Transform (SIFT).
 1. Generate four octaves. 
 Each octave is composed of five images blurred using Gaussian kernels. 
