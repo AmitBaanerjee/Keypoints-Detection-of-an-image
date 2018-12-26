@@ -9,4 +9,4 @@ For each octave, the bandwidth parameters σ (five different scales) of the Gaus
 
 Detected keypoints are shown as white dots
 The final output is as follows :-
-![](keydetectedimage.png)
+![](/task2%20outputs/keydetectedimage.png)
