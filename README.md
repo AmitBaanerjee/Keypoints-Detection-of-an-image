@@ -8,3 +8,5 @@ For each octave, the bandwidth parameters σ (five different scales) of the Gaus
 3. Detect keypoints which are located at the maxima or minima of the DoG images. 
 
 Detected keypoints are shown as white dots
+The final output is as follows :-
+![](keydetectedimage.png)
